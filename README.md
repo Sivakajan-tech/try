@@ -3,4 +3,4 @@
 This is the semester 3 Group project
 
 Team Members: - Ashok
-              - Sivakajan*
+              - Sivakajan - My Branch
