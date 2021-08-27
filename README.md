@@ -2,5 +2,7 @@
 
 This is the semester 3 Group project
 
-Team Members: - Ashok
-              - Sivakajan
+Contributored by,
+1)
+2)
+3)
